@@ -15,6 +15,9 @@ We process each documents once and index the extracted key points for search. Th
 
 ![High level system architecture of the Open Research Assistant Tool](https://github.com/ai8hyf/OpenResearchAssistant/blob/main/assets/openra-architecture.png)
 
+## Datasets
+- [ACL 2023 Paper in Markdown after OCR](https://huggingface.co/datasets/yifeihu/ACL-23-Paper-OCR-Markdown) - This dataset contains 2150 papers in markdown format from Association for Computational Linguistics (ACL) 2023
+
 ## What's coming next?
 - Clean up the current code base and upload the key components (frontend, backend, data pipeline)
 - Buy a domain and design a landing page
